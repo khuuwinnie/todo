@@ -23,3 +23,7 @@ See it in action <a href="https://todo-winnie-khuu.herokuapp.com">here</a>.
 3. Run `bundle install` to install the required Ruby gems.
 3. Run `rake db:create db: migrate` to set up the database.
 4. Visit your localhost link (i.e. localhost:3030 or localhost:3000)
+
+## SCREENSHOT
+![alt text](todo.png)
+Single page application to do list
