@@ -5,6 +5,17 @@ A RESTful API uses HTTP requests to GET, PUT, POST, and DELETE data.
 
 See it in action <a href="https://todo-winnie-khuu.herokuapp.com">here</a>.
 
+## TECHNOLOGIES USED
+* HTML
+* CSS
+* JavaScript
+* Ruby
+* Rails
+* Algorithms
+* Vagrant
+* PuTTY
+* RubyMine
+
 ## SEE IT LOCALLY
 
 1. Download the repository and unzip the files.
